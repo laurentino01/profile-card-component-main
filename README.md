@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component
 
-### Neste projeto precisei trabalhar com positon absolut e utilizei medidas com o clamp para fazer margins e paddings fluídos. 
+### Neste projeto precisei trabalhar com position absolut e utilizei medidas com o clamp para fazer margins e paddings fluídos. 
 
 ## Desktop 
 ![image](https://user-images.githubusercontent.com/81561554/230224480-13773093-fbc3-408f-9e42-29124c11bda4.png)
